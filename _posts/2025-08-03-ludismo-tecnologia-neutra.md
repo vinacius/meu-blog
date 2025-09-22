@@ -1,0 +1,14 @@
+---
+layout: post
+title: Ludismo e tecnologia neutra
+date: 2025-08-03
+---
+Uma das poucas resoluções para 2025 que eu não estou conseguindo cumprir adequadamente é a que trata da leitura. Estou lendo dois livros esse ano, e demorando bem mais do que o meu interesse e a qualidade da leitura demandariam. Porém, um trecho de um dos livros, de um de seus primeiros capítulos, já tem ecoado na minha cabeça e me provocou a rabiscar essa nota.
+
+O livro em questão é  "Mastodontes", de Joshua B. Freeman. É uma pesquisa muito interessante sobre a história da fábrica, e, consequentemente, sobre a construção do mundo moderno. Ainda estou nos primeiros capítulos, mas logo no início o autor aborda uma questão muito popular da Revolução Industrial: o ludismo. Esse é um termo que ganhou a cultura popular e vem à tona a cada momento em que temos que lidar com inovações tecnológicas impactantes.
+
+Em um resumo simples, ludismo se refere a uma ideia de "tecnofobia", pois supostamente os luditas no século XIX destruíam máquinas como uma luta contra a modernidade. É uma imagem potente resgatada sempre que nos deparamos com novas tecnologias que sinalizam um futuro distópico ou socialmente mais degradado. Contudo, Freeman resgata dados importantes sobre o ludismo. Liderados pelo general/capitão/rei Nelson Ludd, os luditas se inseriam num contexto de diversas revoltas e manifestações de trabalhadores contra as condições de trabalho mas fábricas de tecelagem inglesas. Se num primeiro momento as fábricas sugeriram um aumento na qualidade de vida dos trabalhadores, rapidamente as condições de trabalho se degradaram, o acesso à terra foi limitado e o ambiente social nas cidades ao redor das fábricas se precarizou. Ou seja, o ludismo não era um movimento "anti-tecnológico", mas sim uma consequência da luta de classes. A questão não era a tecnologia, e sim o capitalismo.
+
+Essa constatação pode servir de reforço para a tese da "tecnologia neutra", mas é uma ideia equivocada em sua premissa. Me lembro de um causo que rolou comigo numa aula de Projeto de Produto quando um professor argumentou comigo que estaria "usando errado" um sofá por deitar nele ao invés de sentar. A maior parte das invenções humanas possui uma ou algumas funções declaradas, mas podem ser utilizadas e aplicadas das mais inusitadas maneiras. Não existe tecnologia neutra pois ela sempre é inventada dentro de um contexto socio-político específico, e o contexto condiciona as formas de aplicação dessa invenções na realidade. Você pode sim treinar um modelo de aprendizado de máquina com conteúdo diverso e inclusivo, mas como fazer isso se o seu contexto é um país construído sob séculos de racismo e supremacismo branco?
+
+Observar o contexto cultural onde determinadas invenções humanas se estabeleceram é fundamental para compreender os caminhos e aplicações dessas invenções no hoje e no amanhã.
